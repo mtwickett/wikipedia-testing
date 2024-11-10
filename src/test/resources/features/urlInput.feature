@@ -1,3 +1,5 @@
+@correct-url
+
 Feature: Wikipedia URL page counter
 
   Scenario: Correct Wikipedia URL is provided
